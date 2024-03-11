@@ -20,9 +20,10 @@ Specify the timing and frequency of reminders to help users prepare for their ap
 
 Detail the procedure for users to cancel or reschedule appointments if necessary.
 Include any cancellation policies or fees that may apply.
-Payment Integration (if applicable):
 
-Provide instructions for users to make payments for appointments, including accepted payment methods.
+
+
+ appointments, including accepted payment methods.
 Ensure security measures are in place to protect users' financial information.
 Feedback and Reviews:
 
